@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: TestSuite
--------------------------------------------------------------------------------
-Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 48.467 s <<< FAILURE! - in TestSuite
-Academy_E2EProject.ValidateTitle.ValidateHeader  Time elapsed: 0 s  <<< FAILURE!
-java.lang.NullPointerException
-	at Academy_E2EProject.ValidateTitle.ValidateHeader(ValidateTitle.java:62)
-
